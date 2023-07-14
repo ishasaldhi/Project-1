@@ -1,0 +1,2124 @@
+﻿Notes,Cancer Sites,Cancer Sites Code,Sex,Sex Code,Year,Year Code,Region,Region Code,State,State Code,Count
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,Connecticut,9,326
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,Maine,23,122
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,Massachusetts,25,498
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,New Hampshire,33,124
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,Rhode Island,44,81
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,Vermont,50,78
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,New Jersey,34,561
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,New York,36,836
+,Melanoma of the Skin,25010,Female,F,1999,1999,Northeast,CENS-R1,Pennsylvania,42,757
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Illinois,17,584
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Indiana,18,345
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Michigan,26,822
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Ohio,39,682
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Wisconsin,55,286
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Iowa,19,241
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Kansas,20,187
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Minnesota,27,387
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Missouri,29,254
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,Nebraska,31,124
+,Melanoma of the Skin,25010,Female,F,1999,1999,Midwest,CENS-R2,North Dakota,38,24
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Delaware,10,44
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,District of Columbia,11,20
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Florida,12,1248
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Georgia,13,418
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Maryland,24,405
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,North Carolina,37,503
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,South Carolina,45,289
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Virginia,51,419
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,West Virginia,54,125
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Alabama,1,259
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Kentucky,21,368
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Tennessee,47,279
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Arkansas,5,125
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Louisiana,22,176
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Oklahoma,40,136
+,Melanoma of the Skin,25010,Female,F,1999,1999,South,CENS-R3,Texas,48,814
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Arizona,4,371
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Colorado,8,356
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Idaho,16,99
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Montana,30,48
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Nevada,32,69
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,New Mexico,35,104
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Utah,49,160
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Wyoming,56,33
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Alaska,2,21
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,California,6,2355
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Hawaii,15,63
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Oregon,41,332
+,Melanoma of the Skin,25010,Female,F,1999,1999,West,CENS-R4,Washington,53,606
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,Connecticut,9,377
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,Maine,23,97
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,Massachusetts,25,528
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,New Hampshire,33,106
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,Rhode Island,44,107
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,Vermont,50,90
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,New Jersey,34,621
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,New York,36,977
+,Melanoma of the Skin,25010,Female,F,2000,2000,Northeast,CENS-R1,Pennsylvania,42,859
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Illinois,17,671
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Indiana,18,389
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Michigan,26,778
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Ohio,39,717
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Wisconsin,55,342
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Iowa,19,243
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Kansas,20,195
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Minnesota,27,403
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Missouri,29,263
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,Nebraska,31,104
+,Melanoma of the Skin,25010,Female,F,2000,2000,Midwest,CENS-R2,North Dakota,38,27
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Delaware,10,50
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Florida,12,1493
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Georgia,13,573
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Maryland,24,374
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,North Carolina,37,572
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,South Carolina,45,256
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Virginia,51,454
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,West Virginia,54,138
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Alabama,1,250
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Kentucky,21,371
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Tennessee,47,266
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Arkansas,5,136
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Louisiana,22,197
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Oklahoma,40,172
+,Melanoma of the Skin,25010,Female,F,2000,2000,South,CENS-R3,Texas,48,1066
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Arizona,4,321
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Colorado,8,366
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Idaho,16,96
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Montana,30,80
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Nevada,32,144
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,New Mexico,35,136
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Utah,49,165
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Wyoming,56,40
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Alaska,2,24
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,California,6,2330
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Hawaii,15,60
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Oregon,41,393
+,Melanoma of the Skin,25010,Female,F,2000,2000,West,CENS-R4,Washington,53,637
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,Connecticut,9,371
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,Maine,23,130
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,Massachusetts,25,634
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,New Hampshire,33,138
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,Rhode Island,44,100
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,Vermont,50,60
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,New Jersey,34,725
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,New York,36,1116
+,Melanoma of the Skin,25010,Female,F,2001,2001,Northeast,CENS-R1,Pennsylvania,42,1015
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Illinois,17,716
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Indiana,18,491
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Michigan,26,805
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Ohio,39,889
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Wisconsin,55,383
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Iowa,19,318
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Kansas,20,217
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Minnesota,27,446
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Missouri,29,321
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,Nebraska,31,118
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,North Dakota,38,37
+,Melanoma of the Skin,25010,Female,F,2001,2001,Midwest,CENS-R2,South Dakota,46,50
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Delaware,10,69
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,District of Columbia,11,22
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Florida,12,1432
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Georgia,13,622
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Maryland,24,453
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,North Carolina,37,472
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,South Carolina,45,296
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Virginia,51,422
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,West Virginia,54,144
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Alabama,1,285
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Kentucky,21,415
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Tennessee,47,295
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Arkansas,5,153
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Louisiana,22,197
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Oklahoma,40,187
+,Melanoma of the Skin,25010,Female,F,2001,2001,South,CENS-R3,Texas,48,1131
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Arizona,4,408
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Colorado,8,370
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Idaho,16,109
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Montana,30,74
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Nevada,32,143
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,New Mexico,35,157
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Utah,49,172
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Wyoming,56,44
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Alaska,2,35
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,California,6,2520
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Hawaii,15,83
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Oregon,41,389
+,Melanoma of the Skin,25010,Female,F,2001,2001,West,CENS-R4,Washington,53,601
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,Connecticut,9,361
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,Maine,23,148
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,Massachusetts,25,726
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,New Hampshire,33,166
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,Rhode Island,44,122
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,Vermont,50,75
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,New Jersey,34,809
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,New York,36,1148
+,Melanoma of the Skin,25010,Female,F,2002,2002,Northeast,CENS-R1,Pennsylvania,42,1036
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Illinois,17,699
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Indiana,18,464
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Michigan,26,872
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Ohio,39,878
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Wisconsin,55,377
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Iowa,19,284
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Kansas,20,218
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Minnesota,27,399
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Missouri,29,318
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,Nebraska,31,144
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,North Dakota,38,25
+,Melanoma of the Skin,25010,Female,F,2002,2002,Midwest,CENS-R2,South Dakota,46,72
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Delaware,10,54
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,District of Columbia,11,27
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Florida,12,1514
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Georgia,13,653
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Maryland,24,531
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,North Carolina,37,600
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,South Carolina,45,346
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Virginia,51,514
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,West Virginia,54,157
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Alabama,1,283
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Kentucky,21,345
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Tennessee,47,310
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Arkansas,5,131
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Louisiana,22,204
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Oklahoma,40,215
+,Melanoma of the Skin,25010,Female,F,2002,2002,South,CENS-R3,Texas,48,1158
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Arizona,4,409
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Colorado,8,406
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Idaho,16,99
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Montana,30,79
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Nevada,32,144
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,New Mexico,35,125
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Utah,49,163
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Wyoming,56,36
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Alaska,2,33
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,California,6,2556
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Hawaii,15,96
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Oregon,41,398
+,Melanoma of the Skin,25010,Female,F,2002,2002,West,CENS-R4,Washington,53,597
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,Connecticut,9,358
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,Maine,23,131
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,Massachusetts,25,652
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,New Hampshire,33,177
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,Rhode Island,44,111
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,Vermont,50,99
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,New Jersey,34,724
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,New York,36,1075
+,Melanoma of the Skin,25010,Female,F,2003,2003,Northeast,CENS-R1,Pennsylvania,42,1073
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Illinois,17,742
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Indiana,18,489
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Michigan,26,901
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Ohio,39,852
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Wisconsin,55,390
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Iowa,19,227
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Kansas,20,240
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Minnesota,27,441
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Missouri,29,322
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,Nebraska,31,123
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,North Dakota,38,42
+,Melanoma of the Skin,25010,Female,F,2003,2003,Midwest,CENS-R2,South Dakota,46,55
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Delaware,10,70
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,District of Columbia,11,24
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Florida,12,1404
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Georgia,13,678
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Maryland,24,469
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,North Carolina,37,609
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,South Carolina,45,343
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Virginia,51,506
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,West Virginia,54,138
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Alabama,1,266
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Kentucky,21,371
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Mississippi,28,169
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Tennessee,47,284
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Arkansas,5,127
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Louisiana,22,188
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Oklahoma,40,270
+,Melanoma of the Skin,25010,Female,F,2003,2003,South,CENS-R3,Texas,48,1199
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Arizona,4,450
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Colorado,8,343
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Idaho,16,133
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Montana,30,75
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Nevada,32,180
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,New Mexico,35,145
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Utah,49,198
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Wyoming,56,42
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Alaska,2,30
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,California,6,2523
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Hawaii,15,86
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Oregon,41,372
+,Melanoma of the Skin,25010,Female,F,2003,2003,West,CENS-R4,Washington,53,676
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,Connecticut,9,378
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,Maine,23,142
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,Massachusetts,25,736
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,New Hampshire,33,188
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,Rhode Island,44,126
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,Vermont,50,104
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,New Jersey,34,802
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,New York,36,1298
+,Melanoma of the Skin,25010,Female,F,2004,2004,Northeast,CENS-R1,Pennsylvania,42,1052
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Illinois,17,767
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Indiana,18,442
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Michigan,26,796
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Ohio,39,1012
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Wisconsin,55,359
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Iowa,19,260
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Kansas,20,239
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Minnesota,27,439
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Missouri,29,409
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,Nebraska,31,140
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,North Dakota,38,46
+,Melanoma of the Skin,25010,Female,F,2004,2004,Midwest,CENS-R2,South Dakota,46,56
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Delaware,10,80
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Florida,12,1519
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Georgia,13,736
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Maryland,24,450
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,North Carolina,37,650
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,South Carolina,45,424
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Virginia,51,587
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,West Virginia,54,176
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Alabama,1,319
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Kentucky,21,414
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Mississippi,28,181
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Tennessee,47,476
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Arkansas,5,173
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Louisiana,22,219
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Oklahoma,40,294
+,Melanoma of the Skin,25010,Female,F,2004,2004,South,CENS-R3,Texas,48,1138
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Arizona,4,353
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Colorado,8,403
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Idaho,16,154
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Montana,30,70
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Nevada,32,153
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,New Mexico,35,132
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Utah,49,219
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Wyoming,56,51
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Alaska,2,35
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,California,6,2712
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Hawaii,15,117
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Oregon,41,471
+,Melanoma of the Skin,25010,Female,F,2004,2004,West,CENS-R4,Washington,53,765
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,Connecticut,9,467
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,Maine,23,159
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,Massachusetts,25,717
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,New Hampshire,33,207
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,Rhode Island,44,127
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,Vermont,50,108
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,New Jersey,34,912
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,New York,36,1398
+,Melanoma of the Skin,25010,Female,F,2005,2005,Northeast,CENS-R1,Pennsylvania,42,1138
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Illinois,17,935
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Indiana,18,468
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Michigan,26,908
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Ohio,39,1180
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Wisconsin,55,450
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Iowa,19,267
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Kansas,20,259
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Minnesota,27,479
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Missouri,29,448
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,Nebraska,31,149
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,North Dakota,38,46
+,Melanoma of the Skin,25010,Female,F,2005,2005,Midwest,CENS-R2,South Dakota,46,52
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Delaware,10,90
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,District of Columbia,11,28
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Florida,12,1683
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Georgia,13,765
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Maryland,24,511
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,North Carolina,37,788
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,South Carolina,45,409
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Virginia,51,668
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,West Virginia,54,166
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Alabama,1,375
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Kentucky,21,438
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Mississippi,28,171
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Tennessee,47,509
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Arkansas,5,149
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Louisiana,22,230
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Oklahoma,40,272
+,Melanoma of the Skin,25010,Female,F,2005,2005,South,CENS-R3,Texas,48,1156
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Arizona,4,354
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Colorado,8,442
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Idaho,16,157
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Montana,30,86
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Nevada,32,143
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,New Mexico,35,151
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Utah,49,239
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Wyoming,56,55
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Alaska,2,25
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,California,6,2911
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Hawaii,15,104
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Oregon,41,491
+,Melanoma of the Skin,25010,Female,F,2005,2005,West,CENS-R4,Washington,53,775
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,Connecticut,9,414
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,Maine,23,153
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,Massachusetts,25,784
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,New Hampshire,33,166
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,Rhode Island,44,123
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,Vermont,50,95
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,New Jersey,34,926
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,New York,36,1567
+,Melanoma of the Skin,25010,Female,F,2006,2006,Northeast,CENS-R1,Pennsylvania,42,1165
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Illinois,17,942
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Indiana,18,524
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Michigan,26,801
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Ohio,39,1106
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Wisconsin,55,432
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Iowa,19,303
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Kansas,20,286
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Minnesota,27,520
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Missouri,29,438
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,Nebraska,31,134
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,North Dakota,38,58
+,Melanoma of the Skin,25010,Female,F,2006,2006,Midwest,CENS-R2,South Dakota,46,58
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Delaware,10,111
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,District of Columbia,11,23
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Florida,12,1565
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Georgia,13,786
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Maryland,24,487
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,North Carolina,37,823
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,South Carolina,45,419
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Virginia,51,673
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,West Virginia,54,160
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Alabama,1,367
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Kentucky,21,423
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Mississippi,28,189
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Tennessee,47,585
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Arkansas,5,186
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Louisiana,22,244
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Oklahoma,40,299
+,Melanoma of the Skin,25010,Female,F,2006,2006,South,CENS-R3,Texas,48,1163
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Arizona,4,415
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Colorado,8,482
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Idaho,16,108
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Montana,30,101
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Nevada,32,133
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,New Mexico,35,137
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Utah,49,236
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Wyoming,56,41
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Alaska,2,30
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,California,6,2817
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Hawaii,15,108
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Oregon,41,458
+,Melanoma of the Skin,25010,Female,F,2006,2006,West,CENS-R4,Washington,53,759
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,Connecticut,9,420
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,Maine,23,166
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,Massachusetts,25,735
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,New Hampshire,33,149
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,Rhode Island,44,99
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,Vermont,50,87
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,New Jersey,34,948
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,New York,36,1456
+,Melanoma of the Skin,25010,Female,F,2007,2007,Northeast,CENS-R1,Pennsylvania,42,1130
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Illinois,17,994
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Indiana,18,516
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Michigan,26,908
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Ohio,39,1086
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Wisconsin,55,499
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Iowa,19,298
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Kansas,20,264
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Minnesota,27,578
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Missouri,29,492
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,Nebraska,31,157
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,North Dakota,38,72
+,Melanoma of the Skin,25010,Female,F,2007,2007,Midwest,CENS-R2,South Dakota,46,67
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Delaware,10,83
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,District of Columbia,11,21
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Florida,12,1762
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Georgia,13,802
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Maryland,24,567
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,North Carolina,37,853
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,South Carolina,45,471
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Virginia,51,773
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,West Virginia,54,199
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Alabama,1,391
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Kentucky,21,475
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Mississippi,28,191
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Tennessee,47,588
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Arkansas,5,189
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Louisiana,22,249
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Oklahoma,40,325
+,Melanoma of the Skin,25010,Female,F,2007,2007,South,CENS-R3,Texas,48,1251
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Arizona,4,383
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Colorado,8,478
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Idaho,16,151
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Montana,30,96
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Nevada,32,150
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,New Mexico,35,121
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Utah,49,252
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Wyoming,56,50
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Alaska,2,32
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,California,6,3015
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Hawaii,15,103
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Oregon,41,449
+,Melanoma of the Skin,25010,Female,F,2007,2007,West,CENS-R4,Washington,53,737
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,Connecticut,9,438
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,Maine,23,148
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,Massachusetts,25,743
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,New Hampshire,33,173
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,Rhode Island,44,119
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,Vermont,50,82
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,New Jersey,34,861
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,New York,36,1551
+,Melanoma of the Skin,25010,Female,F,2008,2008,Northeast,CENS-R1,Pennsylvania,42,1151
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Illinois,17,1008
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Indiana,18,530
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Michigan,26,955
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Ohio,39,1135
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Wisconsin,55,503
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Iowa,19,306
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Kansas,20,299
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Minnesota,27,609
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Missouri,29,455
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,Nebraska,31,151
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,North Dakota,38,63
+,Melanoma of the Skin,25010,Female,F,2008,2008,Midwest,CENS-R2,South Dakota,46,57
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Delaware,10,86
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Florida,12,1736
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Georgia,13,770
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Maryland,24,527
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,North Carolina,37,931
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,South Carolina,45,509
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Virginia,51,686
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,West Virginia,54,173
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Alabama,1,429
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Kentucky,21,434
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Mississippi,28,216
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Tennessee,47,532
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Arkansas,5,192
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Louisiana,22,248
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Oklahoma,40,259
+,Melanoma of the Skin,25010,Female,F,2008,2008,South,CENS-R3,Texas,48,1271
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Arizona,4,415
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Colorado,8,464
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Idaho,16,115
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Montana,30,105
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Nevada,32,165
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,New Mexico,35,195
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Utah,49,230
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Wyoming,56,63
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Alaska,2,26
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,California,6,3098
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Hawaii,15,107
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Oregon,41,547
+,Melanoma of the Skin,25010,Female,F,2008,2008,West,CENS-R4,Washington,53,783
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,Connecticut,9,419
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,Maine,23,159
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,Massachusetts,25,734
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,New Hampshire,33,164
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,Rhode Island,44,116
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,Vermont,50,102
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,New Jersey,34,874
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,New York,36,1628
+,Melanoma of the Skin,25010,Female,F,2009,2009,Northeast,CENS-R1,Pennsylvania,42,1309
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Illinois,17,1048
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Indiana,18,530
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Michigan,26,969
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Ohio,39,1218
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Wisconsin,55,558
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Iowa,19,342
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Kansas,20,304
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Minnesota,27,696
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Missouri,29,524
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,Nebraska,31,156
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,North Dakota,38,73
+,Melanoma of the Skin,25010,Female,F,2009,2009,Midwest,CENS-R2,South Dakota,46,74
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Delaware,10,121
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,District of Columbia,11,29
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Florida,12,1768
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Georgia,13,836
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Maryland,24,498
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,North Carolina,37,1066
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,South Carolina,45,504
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Virginia,51,660
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,West Virginia,54,209
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Alabama,1,468
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Kentucky,21,453
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Mississippi,28,221
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Tennessee,47,667
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Arkansas,5,221
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Louisiana,22,308
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Oklahoma,40,290
+,Melanoma of the Skin,25010,Female,F,2009,2009,South,CENS-R3,Texas,48,1245
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Arizona,4,500
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Colorado,8,473
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Idaho,16,181
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Montana,30,109
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Nevada,32,189
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,New Mexico,35,159
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Utah,49,285
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Wyoming,56,46
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Alaska,2,29
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,California,6,3043
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Hawaii,15,115
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Oregon,41,478
+,Melanoma of the Skin,25010,Female,F,2009,2009,West,CENS-R4,Washington,53,801
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,Connecticut,9,393
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,Maine,23,147
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,Massachusetts,25,734
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,New Hampshire,33,201
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,Rhode Island,44,131
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,Vermont,50,102
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,New Jersey,34,948
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,New York,36,1554
+,Melanoma of the Skin,25010,Female,F,2010,2010,Northeast,CENS-R1,Pennsylvania,42,1382
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Illinois,17,991
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Indiana,18,617
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Michigan,26,841
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Ohio,39,1103
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Wisconsin,55,628
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Iowa,19,395
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Kansas,20,279
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Minnesota,27,725
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Missouri,29,457
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,Nebraska,31,164
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,North Dakota,38,87
+,Melanoma of the Skin,25010,Female,F,2010,2010,Midwest,CENS-R2,South Dakota,46,87
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Delaware,10,132
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,District of Columbia,11,20
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Florida,12,1748
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Georgia,13,945
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Maryland,24,578
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,North Carolina,37,954
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,South Carolina,45,481
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Virginia,51,619
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,West Virginia,54,188
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Alabama,1,457
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Kentucky,21,508
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Mississippi,28,205
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Tennessee,47,632
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Arkansas,5,183
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Louisiana,22,271
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Oklahoma,40,229
+,Melanoma of the Skin,25010,Female,F,2010,2010,South,CENS-R3,Texas,48,1188
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Arizona,4,420
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Colorado,8,459
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Idaho,16,154
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Montana,30,123
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Nevada,32,171
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,New Mexico,35,186
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Utah,49,298
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Wyoming,56,75
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Alaska,2,41
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,California,6,3084
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Hawaii,15,113
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Oregon,41,530
+,Melanoma of the Skin,25010,Female,F,2010,2010,West,CENS-R4,Washington,53,924
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,Connecticut,9,369
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,Maine,23,167
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,Massachusetts,25,748
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,New Hampshire,33,193
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,Rhode Island,44,101
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,Vermont,50,83
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,New Jersey,34,855
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,New York,36,1747
+,Melanoma of the Skin,25010,Female,F,2011,2011,Northeast,CENS-R1,Pennsylvania,42,1396
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Illinois,17,1095
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Indiana,18,522
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Michigan,26,889
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Ohio,39,1151
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Wisconsin,55,592
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Iowa,19,369
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Kansas,20,310
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Minnesota,27,705
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Missouri,29,483
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,Nebraska,31,179
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,North Dakota,38,70
+,Melanoma of the Skin,25010,Female,F,2011,2011,Midwest,CENS-R2,South Dakota,46,95
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Delaware,10,131
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,District of Columbia,11,23
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Florida,12,2052
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Georgia,13,941
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Maryland,24,523
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,North Carolina,37,955
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,South Carolina,45,429
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Virginia,51,690
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,West Virginia,54,209
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Alabama,1,418
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Kentucky,21,502
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Mississippi,28,238
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Tennessee,47,601
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Arkansas,5,232
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Louisiana,22,259
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Oklahoma,40,275
+,Melanoma of the Skin,25010,Female,F,2011,2011,South,CENS-R3,Texas,48,1428
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Arizona,4,521
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Colorado,8,464
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Idaho,16,181
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Montana,30,111
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Nevada,32,153
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,New Mexico,35,135
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Utah,49,327
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Wyoming,56,47
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Alaska,2,43
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,California,6,3092
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Hawaii,15,113
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Oregon,41,566
+,Melanoma of the Skin,25010,Female,F,2011,2011,West,CENS-R4,Washington,53,871
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,Connecticut,9,352
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,Maine,23,185
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,Massachusetts,25,718
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,New Hampshire,33,174
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,Rhode Island,44,134
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,Vermont,50,109
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,New Jersey,34,946
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,New York,36,1688
+,Melanoma of the Skin,25010,Female,F,2012,2012,Northeast,CENS-R1,Pennsylvania,42,1336
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Illinois,17,1126
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Indiana,18,585
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Michigan,26,883
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Ohio,39,1098
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Wisconsin,55,678
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Iowa,19,386
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Kansas,20,325
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Minnesota,27,787
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Missouri,29,489
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,Nebraska,31,150
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,North Dakota,38,80
+,Melanoma of the Skin,25010,Female,F,2012,2012,Midwest,CENS-R2,South Dakota,46,92
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Delaware,10,130
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,District of Columbia,11,23
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Florida,12,2022
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Georgia,13,1049
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Maryland,24,539
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,North Carolina,37,1069
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,South Carolina,45,513
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Virginia,51,630
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,West Virginia,54,208
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Alabama,1,501
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Kentucky,21,525
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Mississippi,28,208
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Tennessee,47,583
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Arkansas,5,262
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Louisiana,22,301
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Oklahoma,40,301
+,Melanoma of the Skin,25010,Female,F,2012,2012,South,CENS-R3,Texas,48,1250
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Arizona,4,498
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Colorado,8,509
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Idaho,16,184
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Montana,30,126
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Nevada,32,174
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,New Mexico,35,140
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Utah,49,335
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Wyoming,56,66
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Alaska,2,48
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,California,6,3277
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Hawaii,15,110
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Oregon,41,559
+,Melanoma of the Skin,25010,Female,F,2012,2012,West,CENS-R4,Washington,53,817
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,Connecticut,9,382
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,Maine,23,188
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,Massachusetts,25,669
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,New Hampshire,33,186
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,Rhode Island,44,137
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,Vermont,50,107
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,New Jersey,34,968
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,New York,36,1848
+,Melanoma of the Skin,25010,Female,F,2013,2013,Northeast,CENS-R1,Pennsylvania,42,1628
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Illinois,17,1095
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Indiana,18,554
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Michigan,26,955
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Ohio,39,1117
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Wisconsin,55,643
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Iowa,19,410
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Kansas,20,328
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Minnesota,27,745
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Missouri,29,503
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,Nebraska,31,221
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,North Dakota,38,96
+,Melanoma of the Skin,25010,Female,F,2013,2013,Midwest,CENS-R2,South Dakota,46,91
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Delaware,10,134
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,District of Columbia,11,27
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Florida,12,2334
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Georgia,13,1006
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Maryland,24,599
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,North Carolina,37,1091
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,South Carolina,45,489
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Virginia,51,759
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,West Virginia,54,190
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Alabama,1,412
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Kentucky,21,521
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Mississippi,28,233
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Tennessee,47,633
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Arkansas,5,261
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Louisiana,22,309
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Oklahoma,40,285
+,Melanoma of the Skin,25010,Female,F,2013,2013,South,CENS-R3,Texas,48,1263
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Arizona,4,554
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Colorado,8,503
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Idaho,16,197
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Montana,30,133
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Nevada,32,156
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,New Mexico,35,133
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Utah,49,372
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Wyoming,56,57
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Alaska,2,50
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,California,6,3375
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Hawaii,15,125
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Oregon,41,565
+,Melanoma of the Skin,25010,Female,F,2013,2013,West,CENS-R4,Washington,53,870
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,Connecticut,9,408
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,Maine,23,188
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,Massachusetts,25,669
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,New Hampshire,33,250
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,Rhode Island,44,141
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,Vermont,50,108
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,New Jersey,34,937
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,New York,36,1793
+,Melanoma of the Skin,25010,Female,F,2014,2014,Northeast,CENS-R1,Pennsylvania,42,1726
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Illinois,17,1157
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Indiana,18,674
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Michigan,26,929
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Ohio,39,1334
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Wisconsin,55,638
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Iowa,19,383
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Kansas,20,349
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Minnesota,27,764
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Missouri,29,514
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,Nebraska,31,234
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,North Dakota,38,67
+,Melanoma of the Skin,25010,Female,F,2014,2014,Midwest,CENS-R2,South Dakota,46,114
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Delaware,10,132
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,District of Columbia,11,24
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Florida,12,2400
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Georgia,13,1171
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Maryland,24,571
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,North Carolina,37,1118
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,South Carolina,45,544
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Virginia,51,776
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,West Virginia,54,192
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Alabama,1,422
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Kentucky,21,601
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Mississippi,28,239
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Tennessee,47,601
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Arkansas,5,275
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Louisiana,22,306
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Oklahoma,40,352
+,Melanoma of the Skin,25010,Female,F,2014,2014,South,CENS-R3,Texas,48,1262
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Arizona,4,610
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Colorado,8,519
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Idaho,16,208
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Montana,30,154
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Nevada,32,180
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,New Mexico,35,127
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Utah,49,427
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Wyoming,56,63
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Alaska,2,47
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,California,6,3825
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Hawaii,15,142
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Oregon,41,625
+,Melanoma of the Skin,25010,Female,F,2014,2014,West,CENS-R4,Washington,53,898
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,Connecticut,9,355
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,Maine,23,237
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,Massachusetts,25,817
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,New Hampshire,33,238
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,Rhode Island,44,134
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,Vermont,50,135
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,New Jersey,34,1025
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,New York,36,1731
+,Melanoma of the Skin,25010,Female,F,2015,2015,Northeast,CENS-R1,Pennsylvania,42,1735
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Illinois,17,1312
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Indiana,18,718
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Michigan,26,1056
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Ohio,39,1539
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Wisconsin,55,687
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Iowa,19,437
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Kansas,20,388
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Minnesota,27,879
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Missouri,29,610
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,Nebraska,31,254
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,North Dakota,38,89
+,Melanoma of the Skin,25010,Female,F,2015,2015,Midwest,CENS-R2,South Dakota,46,107
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Delaware,10,132
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,District of Columbia,11,24
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Florida,12,2564
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Georgia,13,1227
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Maryland,24,682
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,North Carolina,37,1302
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,South Carolina,45,514
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Virginia,51,731
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,West Virginia,54,192
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Alabama,1,494
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Kentucky,21,584
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Mississippi,28,199
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Tennessee,47,729
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Arkansas,5,298
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Louisiana,22,357
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Oklahoma,40,351
+,Melanoma of the Skin,25010,Female,F,2015,2015,South,CENS-R3,Texas,48,1400
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Arizona,4,654
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Colorado,8,553
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Idaho,16,217
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Montana,30,142
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Nevada,32,157
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,New Mexico,35,175
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Utah,49,468
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Wyoming,56,72
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Alaska,2,44
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,California,6,3895
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Hawaii,15,135
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Oregon,41,626
+,Melanoma of the Skin,25010,Female,F,2015,2015,West,CENS-R4,Washington,53,937
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,Connecticut,9,377
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,Maine,23,233
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,Massachusetts,25,889
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,New Hampshire,33,229
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,Rhode Island,44,128
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,Vermont,50,132
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,New Jersey,34,952
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,New York,36,1744
+,Melanoma of the Skin,25010,Female,F,2016,2016,Northeast,CENS-R1,Pennsylvania,42,1537
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Illinois,17,1432
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Indiana,18,792
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Michigan,26,1048
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Ohio,39,1579
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Wisconsin,55,705
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Iowa,19,470
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Kansas,20,366
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Minnesota,27,903
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Missouri,29,578
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,Nebraska,31,274
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,North Dakota,38,90
+,Melanoma of the Skin,25010,Female,F,2016,2016,Midwest,CENS-R2,South Dakota,46,104
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Delaware,10,137
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,District of Columbia,11,28
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Florida,12,2613
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Georgia,13,1166
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Maryland,24,691
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,North Carolina,37,1226
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,South Carolina,45,608
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Virginia,51,721
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,West Virginia,54,194
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Alabama,1,549
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Kentucky,21,642
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Mississippi,28,249
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Tennessee,47,593
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Arkansas,5,303
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Louisiana,22,340
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Oklahoma,40,413
+,Melanoma of the Skin,25010,Female,F,2016,2016,South,CENS-R3,Texas,48,1402
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Arizona,4,878
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Colorado,8,554
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Idaho,16,239
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Montana,30,147
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Nevada,32,247
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,New Mexico,35,177
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Utah,49,476
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Wyoming,56,52
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Alaska,2,41
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,California,6,3818
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Hawaii,15,166
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Oregon,41,520
+,Melanoma of the Skin,25010,Female,F,2016,2016,West,CENS-R4,Washington,53,894
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,Connecticut,9,373
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,Maine,23,218
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,Massachusetts,25,1002
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,New Hampshire,33,273
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,Rhode Island,44,134
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,Vermont,50,152
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,New Jersey,34,1024
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,New York,36,1744
+,Melanoma of the Skin,25010,Female,F,2017,2017,Northeast,CENS-R1,Pennsylvania,42,1442
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Illinois,17,1397
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Indiana,18,744
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Michigan,26,1053
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Ohio,39,1394
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Wisconsin,55,715
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Iowa,19,490
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Kansas,20,414
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Minnesota,27,985
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Missouri,29,582
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,Nebraska,31,281
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,North Dakota,38,99
+,Melanoma of the Skin,25010,Female,F,2017,2017,Midwest,CENS-R2,South Dakota,46,114
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Delaware,10,149
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,District of Columbia,11,31
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Florida,12,2929
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Georgia,13,1181
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Maryland,24,728
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,North Carolina,37,1268
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,South Carolina,45,564
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Virginia,51,900
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,West Virginia,54,226
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Alabama,1,585
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Kentucky,21,608
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Mississippi,28,271
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Tennessee,47,650
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Arkansas,5,336
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Louisiana,22,385
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Oklahoma,40,400
+,Melanoma of the Skin,25010,Female,F,2017,2017,South,CENS-R3,Texas,48,1451
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Arizona,4,856
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Colorado,8,593
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Idaho,16,202
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Montana,30,174
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Nevada,32,304
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,New Mexico,35,199
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Utah,49,454
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Wyoming,56,74
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Alaska,2,36
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,California,6,3879
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Hawaii,15,125
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Oregon,41,548
+,Melanoma of the Skin,25010,Female,F,2017,2017,West,CENS-R4,Washington,53,1002
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,Connecticut,9,371
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,Maine,23,261
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,Massachusetts,25,603
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,New Hampshire,33,221
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,Rhode Island,44,131
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,Vermont,50,128
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,New Jersey,34,969
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,New York,36,1841
+,Melanoma of the Skin,25010,Female,F,2018,2018,Northeast,CENS-R1,Pennsylvania,42,1452
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Illinois,17,1446
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Indiana,18,747
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Michigan,26,1073
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Ohio,39,1554
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Wisconsin,55,689
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Iowa,19,512
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Kansas,20,347
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Minnesota,27,1071
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Missouri,29,520
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,Nebraska,31,313
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,North Dakota,38,87
+,Melanoma of the Skin,25010,Female,F,2018,2018,Midwest,CENS-R2,South Dakota,46,134
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Delaware,10,134
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,District of Columbia,11,21
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Florida,12,2831
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Georgia,13,1219
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Maryland,24,698
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,North Carolina,37,1236
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,South Carolina,45,577
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Virginia,51,798
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,West Virginia,54,226
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Alabama,1,594
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Kentucky,21,652
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Mississippi,28,223
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Tennessee,47,606
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Arkansas,5,336
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Louisiana,22,370
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Oklahoma,40,353
+,Melanoma of the Skin,25010,Female,F,2018,2018,South,CENS-R3,Texas,48,1534
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Arizona,4,982
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Colorado,8,568
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Idaho,16,213
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Montana,30,154
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,New Mexico,35,155
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Utah,49,485
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Wyoming,56,76
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Alaska,2,42
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,California,6,4011
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Hawaii,15,131
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Oregon,41,492
+,Melanoma of the Skin,25010,Female,F,2018,2018,West,CENS-R4,Washington,53,915
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,Connecticut,9,375
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,Maine,23,211
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,Massachusetts,25,556
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,New Hampshire,33,214
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,Rhode Island,44,138
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,Vermont,50,125
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,New Jersey,34,980
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,New York,36,1889
+,Melanoma of the Skin,25010,Female,F,2019,2019,Northeast,CENS-R1,Pennsylvania,42,1369
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Illinois,17,1521
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Indiana,18,615
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Michigan,26,1011
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Ohio,39,1617
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Wisconsin,55,696
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Iowa,19,547
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Kansas,20,407
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Minnesota,27,1060
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Missouri,29,535
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,Nebraska,31,278
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,North Dakota,38,79
+,Melanoma of the Skin,25010,Female,F,2019,2019,Midwest,CENS-R2,South Dakota,46,112
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Delaware,10,144
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,District of Columbia,11,28
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Florida,12,2792
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Georgia,13,1255
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Maryland,24,766
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,North Carolina,37,1375
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,South Carolina,45,523
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Virginia,51,895
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,West Virginia,54,238
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Alabama,1,499
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Kentucky,21,652
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Mississippi,28,280
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Tennessee,47,742
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Arkansas,5,377
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Louisiana,22,363
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Oklahoma,40,341
+,Melanoma of the Skin,25010,Female,F,2019,2019,South,CENS-R3,Texas,48,1839
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Arizona,4,903
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Colorado,8,536
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Idaho,16,258
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Montana,30,165
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,New Mexico,35,181
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Utah,49,550
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Wyoming,56,81
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Alaska,2,54
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,California,6,4155
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Hawaii,15,174
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Oregon,41,573
+,Melanoma of the Skin,25010,Female,F,2019,2019,West,CENS-R4,Washington,53,984
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,Connecticut,9,436
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,Maine,23,135
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,Massachusetts,25,592
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,New Hampshire,33,137
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,Rhode Island,44,127
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,Vermont,50,102
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,New Jersey,34,746
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,New York,36,1104
+,Melanoma of the Skin,25010,Male,M,1999,1999,Northeast,CENS-R1,Pennsylvania,42,1076
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Illinois,17,831
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Indiana,18,441
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Michigan,26,999
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Ohio,39,889
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Wisconsin,55,378
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Iowa,19,291
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Kansas,20,270
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Minnesota,27,426
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Missouri,29,344
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,Nebraska,31,129
+,Melanoma of the Skin,25010,Male,M,1999,1999,Midwest,CENS-R2,North Dakota,38,40
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Delaware,10,60
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,District of Columbia,11,28
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Florida,12,1997
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Georgia,13,576
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Maryland,24,506
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,North Carolina,37,659
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,South Carolina,45,398
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Virginia,51,574
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,West Virginia,54,180
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Alabama,1,346
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Kentucky,21,437
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Tennessee,47,332
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Arkansas,5,186
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Louisiana,22,236
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Oklahoma,40,220
+,Melanoma of the Skin,25010,Male,M,1999,1999,South,CENS-R3,Texas,48,1210
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Arizona,4,547
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Colorado,8,444
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Idaho,16,137
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Montana,30,64
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Nevada,32,89
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,New Mexico,35,151
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Utah,49,221
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Wyoming,56,63
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Alaska,2,30
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,California,6,3217
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Hawaii,15,117
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Oregon,41,427
+,Melanoma of the Skin,25010,Male,M,1999,1999,West,CENS-R4,Washington,53,639
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,Connecticut,9,473
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,Maine,23,147
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,Massachusetts,25,618
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,New Hampshire,33,182
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,Rhode Island,44,126
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,Vermont,50,84
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,New Jersey,34,749
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,New York,36,1234
+,Melanoma of the Skin,25010,Male,M,2000,2000,Northeast,CENS-R1,Pennsylvania,42,1158
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Illinois,17,850
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Indiana,18,518
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Michigan,26,1011
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Ohio,39,886
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Wisconsin,55,456
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Iowa,19,299
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Kansas,20,245
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Minnesota,27,475
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Missouri,29,403
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,Nebraska,31,142
+,Melanoma of the Skin,25010,Male,M,2000,2000,Midwest,CENS-R2,North Dakota,38,21
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Delaware,10,78
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,District of Columbia,11,19
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Florida,12,2325
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Georgia,13,691
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Maryland,24,534
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,North Carolina,37,717
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,South Carolina,45,381
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Virginia,51,585
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,West Virginia,54,181
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Alabama,1,332
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Kentucky,21,455
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Tennessee,47,335
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Arkansas,5,196
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Louisiana,22,241
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Oklahoma,40,245
+,Melanoma of the Skin,25010,Male,M,2000,2000,South,CENS-R3,Texas,48,1476
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Arizona,4,578
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Colorado,8,490
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Idaho,16,148
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Montana,30,105
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Nevada,32,189
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,New Mexico,35,186
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Utah,49,192
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Wyoming,56,58
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Alaska,2,33
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,California,6,3274
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Hawaii,15,153
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Oregon,41,432
+,Melanoma of the Skin,25010,Male,M,2000,2000,West,CENS-R4,Washington,53,726
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,Connecticut,9,492
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,Maine,23,166
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,Massachusetts,25,797
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,New Hampshire,33,166
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,Rhode Island,44,158
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,Vermont,50,85
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,New Jersey,34,904
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,New York,36,1360
+,Melanoma of the Skin,25010,Male,M,2001,2001,Northeast,CENS-R1,Pennsylvania,42,1226
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Illinois,17,910
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Indiana,18,550
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Michigan,26,1070
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Ohio,39,980
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Wisconsin,55,468
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Iowa,19,289
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Kansas,20,254
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Minnesota,27,479
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Missouri,29,398
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,Nebraska,31,148
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,North Dakota,38,43
+,Melanoma of the Skin,25010,Male,M,2001,2001,Midwest,CENS-R2,South Dakota,46,48
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Delaware,10,102
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,District of Columbia,11,32
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Florida,12,2265
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Georgia,13,793
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Maryland,24,596
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,North Carolina,37,666
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,South Carolina,45,368
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Virginia,51,620
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,West Virginia,54,201
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Alabama,1,347
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Kentucky,21,503
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Tennessee,47,376
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Arkansas,5,233
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Louisiana,22,278
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Oklahoma,40,270
+,Melanoma of the Skin,25010,Male,M,2001,2001,South,CENS-R3,Texas,48,1626
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Arizona,4,635
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Colorado,8,473
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Idaho,16,136
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Montana,30,94
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Nevada,32,224
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,New Mexico,35,193
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Utah,49,210
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Wyoming,56,70
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Alaska,2,37
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,California,6,3553
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Hawaii,15,114
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Oregon,41,473
+,Melanoma of the Skin,25010,Male,M,2001,2001,West,CENS-R4,Washington,53,752
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,Connecticut,9,413
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,Maine,23,161
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,Massachusetts,25,801
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,New Hampshire,33,215
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,Rhode Island,44,179
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,Vermont,50,95
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,New Jersey,34,1049
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,New York,36,1446
+,Melanoma of the Skin,25010,Male,M,2002,2002,Northeast,CENS-R1,Pennsylvania,42,1307
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Illinois,17,963
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Indiana,18,591
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Michigan,26,1015
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Ohio,39,1114
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Wisconsin,55,471
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Iowa,19,300
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Kansas,20,297
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Minnesota,27,451
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Missouri,29,431
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,Nebraska,31,161
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,North Dakota,38,46
+,Melanoma of the Skin,25010,Male,M,2002,2002,Midwest,CENS-R2,South Dakota,46,77
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Delaware,10,81
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,District of Columbia,11,24
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Florida,12,2342
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Georgia,13,873
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Maryland,24,653
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,North Carolina,37,759
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,South Carolina,45,476
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Virginia,51,742
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,West Virginia,54,189
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Alabama,1,340
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Kentucky,21,454
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Tennessee,47,381
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Arkansas,5,176
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Louisiana,22,276
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Oklahoma,40,316
+,Melanoma of the Skin,25010,Male,M,2002,2002,South,CENS-R3,Texas,48,1670
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Arizona,4,654
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Colorado,8,503
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Idaho,16,168
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Montana,30,82
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Nevada,32,234
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,New Mexico,35,197
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Utah,49,221
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Wyoming,56,42
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Alaska,2,36
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,California,6,3503
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Hawaii,15,131
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Oregon,41,466
+,Melanoma of the Skin,25010,Male,M,2002,2002,West,CENS-R4,Washington,53,747
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,Connecticut,9,474
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,Maine,23,195
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,Massachusetts,25,771
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,New Hampshire,33,227
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,Rhode Island,44,169
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,Vermont,50,117
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,New Jersey,34,996
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,New York,36,1365
+,Melanoma of the Skin,25010,Male,M,2003,2003,Northeast,CENS-R1,Pennsylvania,42,1389
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Illinois,17,953
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Indiana,18,606
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Michigan,26,1042
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Ohio,39,1091
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Wisconsin,55,442
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Iowa,19,292
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Kansas,20,278
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Minnesota,27,464
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Missouri,29,449
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,Nebraska,31,157
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,North Dakota,38,50
+,Melanoma of the Skin,25010,Male,M,2003,2003,Midwest,CENS-R2,South Dakota,46,62
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Delaware,10,95
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,District of Columbia,11,30
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Florida,12,2307
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Georgia,13,949
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Maryland,24,597
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,North Carolina,37,824
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,South Carolina,45,527
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Virginia,51,697
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,West Virginia,54,190
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Alabama,1,368
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Kentucky,21,480
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Mississippi,28,194
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Tennessee,47,374
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Arkansas,5,203
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Louisiana,22,273
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Oklahoma,40,363
+,Melanoma of the Skin,25010,Male,M,2003,2003,South,CENS-R3,Texas,48,1720
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Arizona,4,721
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Colorado,8,451
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Idaho,16,180
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Montana,30,97
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Nevada,32,245
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,New Mexico,35,178
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Utah,49,249
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Wyoming,56,54
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Alaska,2,55
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,California,6,3451
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Hawaii,15,126
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Oregon,41,439
+,Melanoma of the Skin,25010,Male,M,2003,2003,West,CENS-R4,Washington,53,767
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,Connecticut,9,476
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,Maine,23,192
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,Massachusetts,25,828
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,New Hampshire,33,198
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,Rhode Island,44,131
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,Vermont,50,104
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,New Jersey,34,1108
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,New York,36,1661
+,Melanoma of the Skin,25010,Male,M,2004,2004,Northeast,CENS-R1,Pennsylvania,42,1375
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Illinois,17,1072
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Indiana,18,578
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Michigan,26,976
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Ohio,39,1109
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Wisconsin,55,485
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Iowa,19,302
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Kansas,20,298
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Minnesota,27,536
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Missouri,29,603
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,Nebraska,31,175
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,North Dakota,38,50
+,Melanoma of the Skin,25010,Male,M,2004,2004,Midwest,CENS-R2,South Dakota,46,73
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Delaware,10,113
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,District of Columbia,11,29
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Florida,12,2351
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Georgia,13,932
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Maryland,24,592
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,North Carolina,37,917
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,South Carolina,45,490
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Virginia,51,729
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,West Virginia,54,235
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Alabama,1,416
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Kentucky,21,512
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Mississippi,28,218
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Tennessee,47,700
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Arkansas,5,228
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Louisiana,22,343
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Oklahoma,40,356
+,Melanoma of the Skin,25010,Male,M,2004,2004,South,CENS-R3,Texas,48,1805
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Arizona,4,604
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Colorado,8,476
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Idaho,16,197
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Montana,30,90
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Nevada,32,230
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,New Mexico,35,198
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Utah,49,280
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Wyoming,56,63
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Alaska,2,38
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,California,6,3876
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Hawaii,15,173
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Oregon,41,519
+,Melanoma of the Skin,25010,Male,M,2004,2004,West,CENS-R4,Washington,53,876
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,Connecticut,9,561
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,Maine,23,196
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,Massachusetts,25,860
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,New Hampshire,33,256
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,Rhode Island,44,144
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,Vermont,50,117
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,New Jersey,34,1018
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,New York,36,1837
+,Melanoma of the Skin,25010,Male,M,2005,2005,Northeast,CENS-R1,Pennsylvania,42,1427
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Illinois,17,1107
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Indiana,18,641
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Michigan,26,1071
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Ohio,39,1328
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Wisconsin,55,521
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Iowa,19,336
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Kansas,20,302
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Minnesota,27,527
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Missouri,29,647
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,Nebraska,31,192
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,North Dakota,38,52
+,Melanoma of the Skin,25010,Male,M,2005,2005,Midwest,CENS-R2,South Dakota,46,64
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Delaware,10,159
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,District of Columbia,11,24
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Florida,12,2645
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Georgia,13,1059
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Maryland,24,703
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,North Carolina,37,1039
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,South Carolina,45,609
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Virginia,51,947
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,West Virginia,54,219
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Alabama,1,544
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Kentucky,21,525
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Mississippi,28,261
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Tennessee,47,767
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Arkansas,5,239
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Louisiana,22,392
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Oklahoma,40,357
+,Melanoma of the Skin,25010,Male,M,2005,2005,South,CENS-R3,Texas,48,1680
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Arizona,4,552
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Colorado,8,551
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Idaho,16,211
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Montana,30,107
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Nevada,32,267
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,New Mexico,35,219
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Utah,49,327
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Wyoming,56,67
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Alaska,2,27
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,California,6,4274
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Hawaii,15,202
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Oregon,41,563
+,Melanoma of the Skin,25010,Male,M,2005,2005,West,CENS-R4,Washington,53,881
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,Connecticut,9,558
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,Maine,23,182
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,Massachusetts,25,1000
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,New Hampshire,33,240
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,Rhode Island,44,163
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,Vermont,50,100
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,New Jersey,34,1103
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,New York,36,2033
+,Melanoma of the Skin,25010,Male,M,2006,2006,Northeast,CENS-R1,Pennsylvania,42,1414
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Illinois,17,1120
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Indiana,18,635
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Michigan,26,999
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Ohio,39,1246
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Wisconsin,55,615
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Iowa,19,380
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Kansas,20,360
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Minnesota,27,635
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Missouri,29,656
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,Nebraska,31,190
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,North Dakota,38,55
+,Melanoma of the Skin,25010,Male,M,2006,2006,Midwest,CENS-R2,South Dakota,46,84
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Delaware,10,142
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,District of Columbia,11,36
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Florida,12,2573
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Georgia,13,1043
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Maryland,24,690
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,North Carolina,37,956
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,South Carolina,45,596
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Virginia,51,965
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,West Virginia,54,223
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Alabama,1,541
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Kentucky,21,550
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Mississippi,28,257
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Tennessee,47,731
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Arkansas,5,262
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Louisiana,22,365
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Oklahoma,40,377
+,Melanoma of the Skin,25010,Male,M,2006,2006,South,CENS-R3,Texas,48,1729
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Arizona,4,601
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Colorado,8,626
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Idaho,16,219
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Montana,30,112
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Nevada,32,218
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,New Mexico,35,217
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Utah,49,382
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Wyoming,56,61
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Alaska,2,25
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,California,6,4005
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Hawaii,15,194
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Oregon,41,520
+,Melanoma of the Skin,25010,Male,M,2006,2006,West,CENS-R4,Washington,53,893
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,Connecticut,9,498
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,Maine,23,187
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,Massachusetts,25,929
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,New Hampshire,33,237
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,Rhode Island,44,134
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,Vermont,50,113
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,New Jersey,34,1153
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,New York,36,1850
+,Melanoma of the Skin,25010,Male,M,2007,2007,Northeast,CENS-R1,Pennsylvania,42,1355
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Illinois,17,1195
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Indiana,18,677
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Michigan,26,1114
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Ohio,39,1350
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Wisconsin,55,610
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Iowa,19,361
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Kansas,20,374
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Minnesota,27,698
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Missouri,29,634
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,Nebraska,31,175
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,North Dakota,38,68
+,Melanoma of the Skin,25010,Male,M,2007,2007,Midwest,CENS-R2,South Dakota,46,68
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Delaware,10,135
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,District of Columbia,11,42
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Florida,12,2975
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Georgia,13,1076
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Maryland,24,728
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,North Carolina,37,1136
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,South Carolina,45,610
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Virginia,51,1055
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,West Virginia,54,217
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Alabama,1,579
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Kentucky,21,619
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Mississippi,28,262
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Tennessee,47,812
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Arkansas,5,261
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Louisiana,22,356
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Oklahoma,40,493
+,Melanoma of the Skin,25010,Male,M,2007,2007,South,CENS-R3,Texas,48,1846
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Arizona,4,633
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Colorado,8,527
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Idaho,16,209
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Montana,30,138
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Nevada,32,265
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,New Mexico,35,210
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Utah,49,373
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Wyoming,56,48
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Alaska,2,30
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,California,6,4355
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Hawaii,15,149
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Oregon,41,571
+,Melanoma of the Skin,25010,Male,M,2007,2007,West,CENS-R4,Washington,53,891
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,Connecticut,9,486
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,Maine,23,190
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,Massachusetts,25,918
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,New Hampshire,33,237
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,Rhode Island,44,135
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,Vermont,50,105
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,New Jersey,34,1206
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,New York,36,2033
+,Melanoma of the Skin,25010,Male,M,2008,2008,Northeast,CENS-R1,Pennsylvania,42,1524
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Illinois,17,1324
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Indiana,18,698
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Michigan,26,1252
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Ohio,39,1424
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Wisconsin,55,653
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Iowa,19,414
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Kansas,20,410
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Minnesota,27,725
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Missouri,29,690
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,Nebraska,31,202
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,North Dakota,38,66
+,Melanoma of the Skin,25010,Male,M,2008,2008,Midwest,CENS-R2,South Dakota,46,73
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Delaware,10,154
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,District of Columbia,11,34
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Florida,12,3024
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Georgia,13,1181
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Maryland,24,733
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,North Carolina,37,1306
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,South Carolina,45,618
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Virginia,51,977
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,West Virginia,54,258
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Alabama,1,637
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Kentucky,21,636
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Mississippi,28,292
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Tennessee,47,737
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Arkansas,5,263
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Louisiana,22,362
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Oklahoma,40,392
+,Melanoma of the Skin,25010,Male,M,2008,2008,South,CENS-R3,Texas,48,1873
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Arizona,4,612
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Colorado,8,563
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Idaho,16,212
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Montana,30,125
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Nevada,32,223
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,New Mexico,35,279
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Utah,49,419
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Wyoming,56,68
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Alaska,2,50
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,California,6,4542
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Hawaii,15,195
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Oregon,41,649
+,Melanoma of the Skin,25010,Male,M,2008,2008,West,CENS-R4,Washington,53,965
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,Connecticut,9,543
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,Maine,23,221
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,Massachusetts,25,863
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,New Hampshire,33,212
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,Rhode Island,44,131
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,Vermont,50,139
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,New Jersey,34,1168
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,New York,36,2188
+,Melanoma of the Skin,25010,Male,M,2009,2009,Northeast,CENS-R1,Pennsylvania,42,1707
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Illinois,17,1320
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Indiana,18,750
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Michigan,26,1163
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Ohio,39,1401
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Wisconsin,55,686
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Iowa,19,427
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Kansas,20,421
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Minnesota,27,782
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Missouri,29,710
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,Nebraska,31,204
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,North Dakota,38,86
+,Melanoma of the Skin,25010,Male,M,2009,2009,Midwest,CENS-R2,South Dakota,46,83
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Delaware,10,175
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,District of Columbia,11,22
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Florida,12,3005
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Georgia,13,1196
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Maryland,24,713
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,North Carolina,37,1418
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,South Carolina,45,713
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Virginia,51,885
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,West Virginia,54,276
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Alabama,1,688
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Kentucky,21,657
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Mississippi,28,315
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Tennessee,47,923
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Arkansas,5,273
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Louisiana,22,439
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Oklahoma,40,388
+,Melanoma of the Skin,25010,Male,M,2009,2009,South,CENS-R3,Texas,48,1883
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Arizona,4,714
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Colorado,8,664
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Idaho,16,229
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Montana,30,133
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Nevada,32,248
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,New Mexico,35,256
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Utah,49,394
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Wyoming,56,78
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Alaska,2,47
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,California,6,4492
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Hawaii,15,205
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Oregon,41,565
+,Melanoma of the Skin,25010,Male,M,2009,2009,West,CENS-R4,Washington,53,999
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,Connecticut,9,555
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,Maine,23,211
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,Massachusetts,25,820
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,New Hampshire,33,234
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,Rhode Island,44,149
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,Vermont,50,106
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,New Jersey,34,1217
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,New York,36,2011
+,Melanoma of the Skin,25010,Male,M,2010,2010,Northeast,CENS-R1,Pennsylvania,42,1777
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Illinois,17,1347
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Indiana,18,750
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Michigan,26,1136
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Ohio,39,1362
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Wisconsin,55,776
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Iowa,19,467
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Kansas,20,439
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Minnesota,27,871
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Missouri,29,674
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,Nebraska,31,189
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,North Dakota,38,83
+,Melanoma of the Skin,25010,Male,M,2010,2010,Midwest,CENS-R2,South Dakota,46,96
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Delaware,10,176
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,District of Columbia,11,28
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Florida,12,2956
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Georgia,13,1218
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Maryland,24,727
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,North Carolina,37,1354
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,South Carolina,45,678
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Virginia,51,945
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,West Virginia,54,282
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Alabama,1,677
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Kentucky,21,636
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Mississippi,28,306
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Tennessee,47,878
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Arkansas,5,313
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Louisiana,22,450
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Oklahoma,40,366
+,Melanoma of the Skin,25010,Male,M,2010,2010,South,CENS-R3,Texas,48,1815
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Arizona,4,699
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Colorado,8,660
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Idaho,16,242
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Montana,30,172
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Nevada,32,255
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,New Mexico,35,258
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Utah,49,468
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Wyoming,56,100
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Alaska,2,53
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,California,6,4659
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Hawaii,15,234
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Oregon,41,636
+,Melanoma of the Skin,25010,Male,M,2010,2010,West,CENS-R4,Washington,53,994
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,Connecticut,9,508
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,Maine,23,207
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,Massachusetts,25,974
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,New Hampshire,33,216
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,Rhode Island,44,149
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,Vermont,50,144
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,New Jersey,34,1301
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,New York,36,2317
+,Melanoma of the Skin,25010,Male,M,2011,2011,Northeast,CENS-R1,Pennsylvania,42,1894
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Illinois,17,1410
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Indiana,18,693
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Michigan,26,1189
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Ohio,39,1463
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Wisconsin,55,780
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Iowa,19,450
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Kansas,20,438
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Minnesota,27,873
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Missouri,29,770
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,Nebraska,31,211
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,North Dakota,38,108
+,Melanoma of the Skin,25010,Male,M,2011,2011,Midwest,CENS-R2,South Dakota,46,103
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Delaware,10,191
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,District of Columbia,11,34
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Florida,12,3549
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Georgia,13,1332
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Maryland,24,770
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,North Carolina,37,1380
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,South Carolina,45,657
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Virginia,51,884
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,West Virginia,54,289
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Alabama,1,683
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Kentucky,21,621
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Mississippi,28,357
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Tennessee,47,854
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Arkansas,5,370
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Louisiana,22,446
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Oklahoma,40,376
+,Melanoma of the Skin,25010,Male,M,2011,2011,South,CENS-R3,Texas,48,2237
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Arizona,4,877
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Colorado,8,678
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Idaho,16,268
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Montana,30,178
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Nevada,32,223
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,New Mexico,35,214
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Utah,49,476
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Wyoming,56,78
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Alaska,2,40
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,California,6,4787
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Hawaii,15,201
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Oregon,41,633
+,Melanoma of the Skin,25010,Male,M,2011,2011,West,CENS-R4,Washington,53,1043
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,Connecticut,9,499
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,Maine,23,230
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,Massachusetts,25,872
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,New Hampshire,33,238
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,Rhode Island,44,140
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,Vermont,50,130
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,New Jersey,34,1260
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,New York,36,2159
+,Melanoma of the Skin,25010,Male,M,2012,2012,Northeast,CENS-R1,Pennsylvania,42,1972
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Illinois,17,1462
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Indiana,18,723
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Michigan,26,1183
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Ohio,39,1447
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Wisconsin,55,852
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Iowa,19,465
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Kansas,20,432
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Minnesota,27,950
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Missouri,29,793
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,Nebraska,31,212
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,North Dakota,38,91
+,Melanoma of the Skin,25010,Male,M,2012,2012,Midwest,CENS-R2,South Dakota,46,124
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Delaware,10,200
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,District of Columbia,11,27
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Florida,12,3655
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Georgia,13,1587
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Maryland,24,811
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,North Carolina,37,1487
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,South Carolina,45,708
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Virginia,51,897
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,West Virginia,54,274
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Alabama,1,704
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Kentucky,21,733
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Mississippi,28,351
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Tennessee,47,849
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Arkansas,5,417
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Louisiana,22,522
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Oklahoma,40,441
+,Melanoma of the Skin,25010,Male,M,2012,2012,South,CENS-R3,Texas,48,1820
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Arizona,4,892
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Colorado,8,702
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Idaho,16,279
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Montana,30,183
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Nevada,32,249
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,New Mexico,35,228
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Utah,49,515
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Wyoming,56,64
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Alaska,2,53
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,California,6,5017
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Hawaii,15,186
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Oregon,41,659
+,Melanoma of the Skin,25010,Male,M,2012,2012,West,CENS-R4,Washington,53,1092
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,Connecticut,9,492
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,Maine,23,235
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,Massachusetts,25,881
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,New Hampshire,33,268
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,Rhode Island,44,170
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,Vermont,50,154
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,New Jersey,34,1331
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,New York,36,2440
+,Melanoma of the Skin,25010,Male,M,2013,2013,Northeast,CENS-R1,Pennsylvania,42,2198
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Illinois,17,1429
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Indiana,18,726
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Michigan,26,1173
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Ohio,39,1523
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Wisconsin,55,838
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Iowa,19,507
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Kansas,20,437
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Minnesota,27,1023
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Missouri,29,808
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,Nebraska,31,253
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,North Dakota,38,91
+,Melanoma of the Skin,25010,Male,M,2013,2013,Midwest,CENS-R2,South Dakota,46,115
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Delaware,10,193
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,District of Columbia,11,37
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Florida,12,4016
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Georgia,13,1528
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Maryland,24,858
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,North Carolina,37,1652
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,South Carolina,45,781
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Virginia,51,1113
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,West Virginia,54,267
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Alabama,1,623
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Kentucky,21,700
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Mississippi,28,329
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Tennessee,47,879
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Arkansas,5,416
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Louisiana,22,514
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Oklahoma,40,521
+,Melanoma of the Skin,25010,Male,M,2013,2013,South,CENS-R3,Texas,48,1952
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Arizona,4,967
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Colorado,8,698
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Idaho,16,256
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Montana,30,193
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Nevada,32,287
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,New Mexico,35,197
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Utah,49,558
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Wyoming,56,76
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Alaska,2,57
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,California,6,5430
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Hawaii,15,196
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Oregon,41,768
+,Melanoma of the Skin,25010,Male,M,2013,2013,West,CENS-R4,Washington,53,1118
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,Connecticut,9,538
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,Maine,23,259
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,Massachusetts,25,824
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,New Hampshire,33,303
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,Rhode Island,44,212
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,Vermont,50,188
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,New Jersey,34,1379
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,New York,36,2394
+,Melanoma of the Skin,25010,Male,M,2014,2014,Northeast,CENS-R1,Pennsylvania,42,2342
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Illinois,17,1541
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Indiana,18,905
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Michigan,26,1267
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Ohio,39,1812
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Wisconsin,55,995
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Iowa,19,523
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Kansas,20,453
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Minnesota,27,1032
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Missouri,29,852
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,Nebraska,31,255
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,North Dakota,38,100
+,Melanoma of the Skin,25010,Male,M,2014,2014,Midwest,CENS-R2,South Dakota,46,131
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Delaware,10,211
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,District of Columbia,11,42
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Florida,12,4283
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Georgia,13,1728
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Maryland,24,873
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,North Carolina,37,1770
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,South Carolina,45,753
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Virginia,51,1075
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,West Virginia,54,265
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Alabama,1,639
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Kentucky,21,760
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Mississippi,28,331
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Tennessee,47,851
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Arkansas,5,432
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Louisiana,22,564
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Oklahoma,40,604
+,Melanoma of the Skin,25010,Male,M,2014,2014,South,CENS-R3,Texas,48,2134
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Arizona,4,1124
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Colorado,8,745
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Idaho,16,274
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Montana,30,186
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Nevada,32,307
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,New Mexico,35,237
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Utah,49,652
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Wyoming,56,108
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Alaska,2,64
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,California,6,5735
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Hawaii,15,207
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Oregon,41,765
+,Melanoma of the Skin,25010,Male,M,2014,2014,West,CENS-R4,Washington,53,1172
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,Connecticut,9,537
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,Maine,23,253
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,Massachusetts,25,949
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,New Hampshire,33,291
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,Rhode Island,44,178
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,Vermont,50,158
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,New Jersey,34,1367
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,New York,36,2402
+,Melanoma of the Skin,25010,Male,M,2015,2015,Northeast,CENS-R1,Pennsylvania,42,2330
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Illinois,17,1609
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Indiana,18,968
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Michigan,26,1309
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Ohio,39,1902
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Wisconsin,55,982
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Iowa,19,527
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Kansas,20,495
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Minnesota,27,1108
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Missouri,29,825
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,Nebraska,31,273
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,North Dakota,38,116
+,Melanoma of the Skin,25010,Male,M,2015,2015,Midwest,CENS-R2,South Dakota,46,133
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Delaware,10,217
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,District of Columbia,11,50
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Florida,12,4590
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Georgia,13,1720
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Maryland,24,1033
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,North Carolina,37,1859
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,South Carolina,45,840
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Virginia,51,1026
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,West Virginia,54,294
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Alabama,1,779
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Kentucky,21,810
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Mississippi,28,337
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Tennessee,47,970
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Arkansas,5,483
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Louisiana,22,607
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Oklahoma,40,600
+,Melanoma of the Skin,25010,Male,M,2015,2015,South,CENS-R3,Texas,48,2162
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Arizona,4,1271
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Colorado,8,748
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Idaho,16,296
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Montana,30,188
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Nevada,32,249
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,New Mexico,35,239
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Utah,49,595
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Wyoming,56,82
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Alaska,2,47
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,California,6,5855
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Hawaii,15,264
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Oregon,41,744
+,Melanoma of the Skin,25010,Male,M,2015,2015,West,CENS-R4,Washington,53,1193
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,Connecticut,9,546
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,Maine,23,271
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,Massachusetts,25,1150
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,New Hampshire,33,315
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,Rhode Island,44,172
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,Vermont,50,203
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,New Jersey,34,1308
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,New York,36,2440
+,Melanoma of the Skin,25010,Male,M,2016,2016,Northeast,CENS-R1,Pennsylvania,42,2240
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Illinois,17,1805
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Indiana,18,1012
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Michigan,26,1488
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Ohio,39,2042
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Wisconsin,55,1037
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Iowa,19,585
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Kansas,20,520
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Minnesota,27,1103
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Missouri,29,758
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,Nebraska,31,331
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,North Dakota,38,94
+,Melanoma of the Skin,25010,Male,M,2016,2016,Midwest,CENS-R2,South Dakota,46,138
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Delaware,10,224
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,District of Columbia,11,40
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Florida,12,4587
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Georgia,13,1685
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Maryland,24,957
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,North Carolina,37,1844
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,South Carolina,45,862
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Virginia,51,1153
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,West Virginia,54,329
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Alabama,1,843
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Kentucky,21,847
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Mississippi,28,367
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Tennessee,47,933
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Arkansas,5,473
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Louisiana,22,506
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Oklahoma,40,634
+,Melanoma of the Skin,25010,Male,M,2016,2016,South,CENS-R3,Texas,48,2273
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Arizona,4,1324
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Colorado,8,795
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Idaho,16,321
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Montana,30,204
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Nevada,32,383
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,New Mexico,35,240
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Utah,49,638
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Wyoming,56,86
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Alaska,2,61
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,California,6,5979
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Hawaii,15,281
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Oregon,41,733
+,Melanoma of the Skin,25010,Male,M,2016,2016,West,CENS-R4,Washington,53,1204
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,Connecticut,9,493
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,Maine,23,233
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,Massachusetts,25,1217
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,New Hampshire,33,355
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,Rhode Island,44,167
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,Vermont,50,172
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,New Jersey,34,1471
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,New York,36,2495
+,Melanoma of the Skin,25010,Male,M,2017,2017,Northeast,CENS-R1,Pennsylvania,42,2085
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Illinois,17,1910
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Indiana,18,1017
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Michigan,26,1462
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Ohio,39,2016
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Wisconsin,55,995
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Iowa,19,571
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Kansas,20,556
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Minnesota,27,1263
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Missouri,29,839
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,Nebraska,31,332
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,North Dakota,38,107
+,Melanoma of the Skin,25010,Male,M,2017,2017,Midwest,CENS-R2,South Dakota,46,168
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Delaware,10,204
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,District of Columbia,11,47
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Florida,12,4802
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Georgia,13,1813
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Maryland,24,1041
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,North Carolina,37,1837
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,South Carolina,45,915
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Virginia,51,1237
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,West Virginia,54,332
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Alabama,1,757
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Kentucky,21,808
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Mississippi,28,427
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Tennessee,47,966
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Arkansas,5,482
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Louisiana,22,582
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Oklahoma,40,591
+,Melanoma of the Skin,25010,Male,M,2017,2017,South,CENS-R3,Texas,48,2427
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Arizona,4,1716
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Colorado,8,773
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Idaho,16,338
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Montana,30,217
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Nevada,32,479
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,New Mexico,35,280
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Utah,49,618
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Wyoming,56,89
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Alaska,2,47
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,California,6,5976
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Hawaii,15,251
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Oregon,41,771
+,Melanoma of the Skin,25010,Male,M,2017,2017,West,CENS-R4,Washington,53,1247
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,Connecticut,9,505
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,Maine,23,276
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,Massachusetts,25,792
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,New Hampshire,33,293
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,Rhode Island,44,171
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,Vermont,50,173
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,New Jersey,34,1320
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,New York,36,2463
+,Melanoma of the Skin,25010,Male,M,2018,2018,Northeast,CENS-R1,Pennsylvania,42,2058
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Illinois,17,1838
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Indiana,18,885
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Michigan,26,1420
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Ohio,39,1968
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Wisconsin,55,902
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Iowa,19,602
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Kansas,20,503
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Minnesota,27,1415
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Missouri,29,762
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,Nebraska,31,344
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,North Dakota,38,100
+,Melanoma of the Skin,25010,Male,M,2018,2018,Midwest,CENS-R2,South Dakota,46,174
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Delaware,10,229
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,District of Columbia,11,40
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Florida,12,4760
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Georgia,13,1702
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Maryland,24,1000
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,North Carolina,37,1832
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,South Carolina,45,871
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Virginia,51,1279
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,West Virginia,54,327
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Alabama,1,767
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Kentucky,21,847
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Mississippi,28,380
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Tennessee,47,989
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Arkansas,5,527
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Louisiana,22,636
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Oklahoma,40,545
+,Melanoma of the Skin,25010,Male,M,2018,2018,South,CENS-R3,Texas,48,2483
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Arizona,4,1736
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Colorado,8,777
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Idaho,16,366
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Montana,30,238
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,New Mexico,35,243
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Utah,49,670
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Wyoming,56,114
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Alaska,2,69
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,California,6,6007
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Hawaii,15,318
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Oregon,41,682
+,Melanoma of the Skin,25010,Male,M,2018,2018,West,CENS-R4,Washington,53,1255
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,Connecticut,9,525
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,Maine,23,263
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,Massachusetts,25,741
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,New Hampshire,33,370
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,Rhode Island,44,154
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,Vermont,50,141
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,New Jersey,34,1412
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,New York,36,2555
+,Melanoma of the Skin,25010,Male,M,2019,2019,Northeast,CENS-R1,Pennsylvania,42,1952
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Illinois,17,2073
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Indiana,18,799
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Michigan,26,1357
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Ohio,39,2208
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Wisconsin,55,944
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Iowa,19,650
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Kansas,20,557
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Minnesota,27,1283
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Missouri,29,769
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,Nebraska,31,367
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,North Dakota,38,98
+,Melanoma of the Skin,25010,Male,M,2019,2019,Midwest,CENS-R2,South Dakota,46,137
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Delaware,10,218
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,District of Columbia,11,35
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Florida,12,4711
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Georgia,13,1709
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Maryland,24,1167
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,North Carolina,37,2067
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,South Carolina,45,794
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Virginia,51,1331
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,West Virginia,54,280
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Alabama,1,683
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Kentucky,21,837
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Mississippi,28,387
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Tennessee,47,1096
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Arkansas,5,601
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Louisiana,22,606
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Oklahoma,40,566
+,Melanoma of the Skin,25010,Male,M,2019,2019,South,CENS-R3,Texas,48,2819
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Arizona,4,1558
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Colorado,8,815
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Idaho,16,352
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Montana,30,245
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,New Mexico,35,262
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Utah,49,700
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Wyoming,56,103
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Alaska,2,57
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,California,6,6149
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Hawaii,15,303
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Oregon,41,751
+,Melanoma of the Skin,25010,Male,M,2019,2019,West,CENS-R4,Washington,53,1444
