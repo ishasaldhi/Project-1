@@ -1,4 +1,4 @@
-# Project-1
+# Project-1, Group 1
 
 Project Title: "Exploring Melanoma Demographics, casuses, and treatments"
 
@@ -25,3 +25,12 @@ Datasets to be Used:
 * NCI cancer trends progress report
 
 Rough Breakdown of Tasks:
+1. Finalize datasets to use
+2. Create a main jupyter notebook
+3. Have all members create their own branches to work individually in
+4. All members need create at least 2 graphs that highlight and answer their research question
+5. Members need to merge their changes with their graphs and conclusions to the main jupyter notebook
+6. Final version of the jupyter notebook should be approved by all members
+7. Final version of the README should be updated
+8. Graphs and concise finidngs should be compiled into a PPT or other presentation format, speaking order should be determined
+9. Present and submit!
