@@ -16,7 +16,6 @@ The goal of this project is to introduce cancer research and explore general tre
 Research Questions to Answer:
 1. What are the regional percentanges of Melanoma staging and what is the progression and spread of the disease.
 2. What are some of the trends of Melanoma in terms of incidences, age and ethnicity that can help us to better understand this cancer.
-Datasets to be Used:
 3. How expensive is melanoma treatment in comparison to other cancers? Is its cost a different financial burden amongst different racial/SES populations, and does that influence mortality rates?
 
 Datasets to be Used:
