@@ -22,6 +22,8 @@ Datasets to be Used:
 * NCI SEERS database
 * NCI GDC database
 * NCI cancer trends progress report
+* CDC WONDER Database
+* Data World Environmental Data
 
 Rough Breakdown of Tasks:
 1. Finalize datasets to use
