@@ -1,4 +1,4 @@
-# Project-1, Group 1
+# Project 1, Group 1
 
 Project Title: "Exploring Melanoma Demographics, casuses, and treatments"
 
@@ -15,7 +15,7 @@ The goal of this project is to introduce cancer research and explore general tre
 
 CSV datasets used can be found within the main branch, as well as our jupyter notebook 'Project_1_Melanoma' and presentation 'Project 1".
 
-Research Questions to Answer:
+Research Questions:
 1. What are some of the trends of Melanoma in terms of incidences, age and ethnicity that can help us to better understand this cancer.
 2.
 3. How expensive is melanoma treatment in comparison to other cancers? Is its cost a different financial burden amongst different racial/SES populations, and does that influence mortality rates?
