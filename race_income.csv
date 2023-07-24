@@ -1,0 +1,50 @@
+﻿Characteristic,Number (thousands),Median Income (dollars),Margin of error1 (±)
+All households,129931.00,67521.00,782.00
+Family households,83907.00,86372.00,851.00
+Married-couple,61454.00,101517.00,850.00
+"Female householder, no spouse present",15490.00,49214.00,1444.00
+"Male householder, no spouse present",6963.00,67304.00,2317.00
+Nonfamily households,46024.00,40464.00,652.00
+Female householder,24244.00,35574.00,685.00
+Male householder,21781.00,47259.00,1227.00
+White,85336.00,74912.00,936.00
+Black,17358.00,45870.00,1268.00
+Asian,6987.00,94903.00,3794.00
+Hispanic,18349.00,55321.00,1183.00
+Under 65 years,94243.00,76800.00,737.00
+15 to 24 years,5485.00,46886.00,1540.00
+25 to 34 years,20654.00,71566.00,1154.00
+35 to 44 years,22105.00,85694.00,1712.00
+45 to 54 years,21663.00,90359.00,1958.00
+55 to 64 years,24336.00,74270.00,2105.00
+65 years and older,35688.00,46360.00,934.00
+Native-born,110348.00,68795.00,977.00
+Foreign-born,19584.00,61984.00,907.00
+Naturalized citizen,11201.00,68760.00,2074.00
+Not a citizen,8382.00,55099.00,1791.00
+Northeast,22082.00,75211.00,1640.00
+Midwest,27865.00,66968.00,1734.00
+South,50385.00,61243.00,821.00
+West,29600.00,74951.00,1275.00
+Inside metropolitan statistical areas,111999.00,70956.00,666.00
+Inside principal cities,43470.00,62444.00,1178.00
+Outside principal cities,68528.00,76022.00,874.00
+Outside metropolitan statistical areas,17933.00,51616.00,1157.00
+"Educational Attainment of Householder Total, aged 25 and older",124446.00,69228.00,918.00
+No high school diploma,10052.00,29547.00,1063.00
+"High school, no college",31647.00,47405.00,973.00
+Some college,33646.00,63653.00,1364.00
+Bachelor's degree or higher,49102.00,106936.00,1499.00
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+*An asterisk preceding an estimate indicates change is statistically different from zero at the 90 percent confidence level.,,,
+"1 A margin of error (MOE) is a measure of an estimate's variability. The larger the MOE in relation to the size of the estimate, the less reliable the estimate. This number, when added to and subtracted from the estimate, forms the 90 percent confidence interval. MOEs shown in this table are based on standard errors calculated using replicate weights.",,,
+"2 Federal surveys give respondents the option of reporting more than one race. Therefore, two basic ways of defining a race group are possible. A group such as Asian may be defined as those who reported Asian and no other race (the race-alone or single-race concept) or as those who reported Asian regardless of whether they also reported another race (the race-alone-or-in-combination concept). This table shows data using the first approach (race alone). The use of the single-race population does not imply that it is the preferred method of presenting or analyzing data. The Census Bureau uses a variety of approaches. Data for American Indians and Alaska Natives, Native Hawaiians and Other Pacific Islanders, and those reporting two or more races are not shown separately.",,,
+3 Information on metropolitan statistical areas and principal cities is available at <www.census.gov/programs-surveys/metro-micro/about/glossary.html>.,,,
+Note: Inflation-adjusted estimates may differ slightly from other published data due to rounding.,,,
+"Source: U.S. Census Bureau, Current Population Survey, 2020 and 2021 Annual Social and Economic Supplements (CPS ASEC).",,,
