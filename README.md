@@ -1,6 +1,6 @@
 # Project 1, Group 1
 
-Project Title: "Exploring Melanoma Demographics, casuses, and treatments"
+Project Title: "Exploring Melanoma Demographics, causes, and treatments"
 
 Team Members:
 1. Isha Saldhi
