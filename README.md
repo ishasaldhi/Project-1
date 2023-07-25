@@ -37,5 +37,5 @@ Tasks completed by members:
 5. Members merged their changes with their graphs and conclusions to the main jupyter notebook
 6. Final version of the jupyter notebook approved by all members
 7. Final version of the README updated
-8. Graphs and concise finidngs compiled into a PPT, speaking order determined
+8. Graphs and concise findings compiled into a PPT, speaking order determined
 9. Presented and submited!
