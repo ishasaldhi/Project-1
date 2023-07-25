@@ -17,7 +17,7 @@ CSV datasets used can be found within the main branch, as well as our jupyter no
 
 Research Questions:
 1. What are some of the trends of Melanoma in terms of incidences, age and ethnicity that can help us to better understand this cancer?
-2.
+2. What gene mutations are most prevalent in melanoma, and is there a difference between metastatic and primary melanomas?
 3. How expensive is melanoma treatment in comparison to other cancers? Is its cost a different financial burden amongst different racial/SES populations, and does that influence mortality rates?
 4. What are the regional percentanges of Melanoma staging and what is the progression and spread of the disease?
  
