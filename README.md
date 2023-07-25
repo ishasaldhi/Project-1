@@ -16,10 +16,10 @@ The goal of this project is to introduce cancer research and explore general tre
 CSV datasets used can be found within the main branch, as well as our jupyter notebook 'Project_1_Melanoma' and presentation 'Project 1".
 
 Research Questions:
-1. What are some of the trends of Melanoma in terms of incidences, age and ethnicity that can help us to better understand this cancer.
-2.
+1. What are some of the trends of Melanoma in terms of incidences, age and ethnicity that can help us to better understand this cancer?
+2. What gene mutations are most prevalent in melanoma, and is there a difference between metastatic and primary melanomas?
 3. How expensive is melanoma treatment in comparison to other cancers? Is its cost a different financial burden amongst different racial/SES populations, and does that influence mortality rates?
-4. What are the regional percentanges of Melanoma staging and what is the progression and spread of the disease.
+4. What are the regional percentanges of Melanoma staging and what is the progression and spread of the disease?
  
 
 Datasets Used:
@@ -37,5 +37,5 @@ Tasks completed by members:
 5. Members merged their changes with their graphs and conclusions to the main jupyter notebook
 6. Final version of the jupyter notebook approved by all members
 7. Final version of the README updated
-8. Graphs and concise finidngs compiled into a PPT, speaking order determined
+8. Graphs and concise findings compiled into a PPT, speaking order determined
 9. Presented and submited!
